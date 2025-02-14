@@ -28,5 +28,23 @@
     "descripcion": "Sí objeto del impuesto, IVA crédito PODEBI.",
     "fechaInicioDeVigencia": "06-12-2023",
     "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "06",
+    "descripcion": "Sí objeto del IVA, No traslado IVA.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "07",
+    "descripcion": "No traslado del IVA, Sí desglose IEPS.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
+  },
+  {
+    "id": "08",
+    "descripcion": "No traslado del IVA, No desglose IEPS.",
+    "fechaInicioDeVigencia": "13-12-2024",
+    "fechaFinDeVigencia": ""
   }
 ]

@@ -7020,8 +7020,18 @@
     "finDeVigenciaDeLaPatente": ""
   },
   {
+    "c_PatenteAduanal": "1900",
+    "inicioDeVigenciaDeLaPatente": "05-09-2024",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
     "c_PatenteAduanal": "1904",
     "inicioDeVigenciaDeLaPatente": "05-11-2024",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "1905",
+    "inicioDeVigenciaDeLaPatente": "06-09-2024",
     "finDeVigenciaDeLaPatente": ""
   },
   {
@@ -7066,6 +7076,11 @@
   },
   {
     "c_PatenteAduanal": "1936",
+    "inicioDeVigenciaDeLaPatente": "11-09-2024",
+    "finDeVigenciaDeLaPatente": ""
+  },
+  {
+    "c_PatenteAduanal": "1937",
     "inicioDeVigenciaDeLaPatente": "11-09-2024",
     "finDeVigenciaDeLaPatente": ""
   },
